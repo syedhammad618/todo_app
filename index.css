@@ -1,0 +1,61 @@
+#but {
+  /* text-align: center; */
+  width: 30px;
+  height: 31px;
+  position: absolute;
+  top: 81px;
+  /* background-image: linear-gradient(to right, rgb(240, 169, 234), rgb(235, 122, 210), rgb(230, 7, 200)); */
+  background-image: linear-gradient(
+    to top,
+    rgb(188, 169, 240),
+    rgb(94, 92, 243),
+    rgb(29, 7, 230)
+  );
+  border: 1px solid;
+  box-shadow: black 2px 2px 2px;
+}
+#but:hover {
+  width: 80px;
+  height: 35px;
+}
+#baap {
+  background-image: linear-gradient(
+    to right,
+    rgb(188, 169, 240),
+    rgb(94, 92, 243),
+    rgb(12, 5, 83)
+  );
+  /* text-align: center */
+}
+
+#input_dec {
+  color: blue;
+  font-size: 20px;
+}
+#input_dec:focus {
+  background: rgb(171, 171, 233);
+}
+#h1 {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  /* background-image: linear-gradient(to right yellow,red); */
+  background: rgb(54, 10, 214);
+  border: 1px solid black;
+  margin-right: 790px;
+  box-shadow: rgb(0, 0, 0) 2px 4px 2px;
+  min-width: 280px;
+  max-width: 280px;
+}
+#del {
+  background-image: linear-gradient(
+    to top,
+    rgb(188, 169, 240),
+    rgb(94, 92, 243),
+    rgb(29, 7, 230)
+  );
+  border: 1px solid;
+  border-radius: 15%;
+  box-shadow: black 2px 2px 2px;
+}
+
+
